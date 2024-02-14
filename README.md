@@ -1,5 +1,7 @@
 # Snake Game
 
+![](https://github.com/Geekcodeofficial/snake-game/blob/main/gif-readme.gif)
+
 This is a simple implementation of the classic Snake Game using the Pygame library in Python. The game features a snake that grows longer as it consumes randomly placed food on the screen. The player controls the snake's movement to avoid collisions with the game boundaries and itself.
 
 ## Prerequisites
